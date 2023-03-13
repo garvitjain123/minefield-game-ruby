@@ -1,0 +1,9 @@
+# Ignore bundle config
+.bundle
+
+# Ignore vendor installations
+vendor
+
+# Ignore rubocop configuration
+.robocop.yml
+
